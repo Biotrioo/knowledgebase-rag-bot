@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+langchain>=0.1.0
+langchain-community>=0.0.12
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+unstructured>=0.10.14
+requests>=2.31.0
+pypdf>=3.15.0
